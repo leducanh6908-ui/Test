@@ -38,3 +38,351 @@ C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_Qua
 C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_Quan.06CD4806.Up2Date
 C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.dll
 C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\runtimes\win\native\selenium-manager.exe
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\runtimes\linux\native\selenium-manager
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\runtimes\osx\native\selenium-manager
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Buffers.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.IO.Pipelines.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Memory.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Numerics.Vectors.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encodings.Web.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Json.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.Support.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.ValueTuple.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DTO_QuanLyQuanNet.dll.config
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Buffers.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.IO.Pipelines.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Memory.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Numerics.Vectors.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encodings.Web.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Json.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.Support.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\AngleSharp.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Win32.Registry.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Newtonsoft.Json.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.AccessControl.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.Principal.Windows.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriverManager.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\AngleSharp.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Win32.Registry.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Newtonsoft.Json.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.AccessControl.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.Principal.Windows.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\NUnit3.TestAdapter.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.engine.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.engine.api.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.engine.core.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\testcentric.engine.metadata.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\NUnit3.TestAdapter.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Platform.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.legacy.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Collections.Immutable.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Reflection.Metadata.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Platform.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.legacy.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Collections.Immutable.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Reflection.Metadata.xml
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.gentestingplatformentrypointinputcache.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.genautoregisteredextensionsinputcache.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\runtimes\win\native\selenium-manager.exe
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\runtimes\linux\native\selenium-manager
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\runtimes\osx\native\selenium-manager
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.engine.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.engine.api.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.engine.core.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.dll.config
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DAL_QuanLyQuanNet.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\AngleSharp.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DTO_QuanLyQuanNet.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Platform.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Buffers.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Memory.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Json.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.Support.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriverManager.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.ValueTuple.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DTO_QuanLyQuanNet.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\DTO_QuanLyQuanNet.dll.config
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\AngleSharp.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Testing.Platform.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Buffers.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Memory.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Text.Json.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\WebDriver.Support.xml
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.csproj.AssemblyReference.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.gentestingplatformentrypointinputcache.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.genautoregisteredextensionsinputcache.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_Quan.06CD4806.Up2Date
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\DAL_QuanLyQuanNet\obj\Debug\DAL_QuanLyQuanNet.pdb

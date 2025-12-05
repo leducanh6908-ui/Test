@@ -8,7 +8,7 @@ namespace DAL_QuanLyQuanNet
 {
     public class ThanhToan_DAL
     {
-        private static string chuoiKetNoi = @"Data Source=DESKTOP-O7TJDCH\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
+        private static string chuoiKetNoi = @"Data Source=DESKTOP-4T4K5KV\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
 
         // DAL_QuanLyQuanNet/KHachHang_DAL.cs
 

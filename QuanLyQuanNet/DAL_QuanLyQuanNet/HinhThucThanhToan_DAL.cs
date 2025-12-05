@@ -7,7 +7,7 @@ namespace DAL_QuanLyQuanNet
 {
     public static class HinhThucThanhToan_DAL
     {
-        private static readonly string connectionString = @"Data Source=DESKTOP-O7TJDCH\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
+        private static readonly string connectionString = @"Data Source=DESKTOP-4T4K5KV\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
 
         public static List<HinhThucThanhToan_DTO> LayTatCa()
         {

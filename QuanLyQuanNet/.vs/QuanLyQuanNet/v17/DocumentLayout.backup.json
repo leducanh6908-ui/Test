@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\gui_qlqn\\ucdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\ucdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3955BA10-FA14-4572-BE68-DE0E1A4F1108}|CoreLibs\\CoreLibs.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\corelibs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3955BA10-FA14-4572-BE68-DE0E1A4F1108}|CoreLibs\\CoreLibs.csproj|solutionrelative:corelibs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\gui_qlqn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34A10174-6886-4AAD-ACAA-5254BB74A2E5}|Apps\\Apps.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A10174-6886-4AAD-ACAA-5254BB74A2E5}|Apps\\Apps.csproj|solutionrelative:apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66702CE5-6E39-4995-80E1-1EEE7D537713}|GUI_QLQN\\GUI_QLQN.csproj|solutionrelative:gui_qlqn\\frmquanlyloaimay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BB1D5AF-A65F-4EF9-BED2-6C69A0269BC4}|Tests\\Tests.csproj|c:\\sd1903_nhoms1_zenspace-main\\sd1903_nhoms1_zenspace-main\\quanlyquannet\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB1D5AF-A65F-4EF9-BED2-6C69A0269BC4}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,51 +46,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:39:49.449Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\Program.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\Program.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\Program.cs",
-              "RelativeToolTip": "GUI_QLQN\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\Apps\\Program.cs",
+              "RelativeDocumentMoniker": "Apps\\Program.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\Apps\\Program.cs",
+              "RelativeToolTip": "Apps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:30:31.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T07:38:45.472Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ucDichVu.cs [Design]",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\ucDichVu.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\ucDichVu.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\ucDichVu.cs [Design]",
-              "RelativeToolTip": "GUI_QLQN\\ucDichVu.cs [Design]",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\CoreLibs\\Class1.cs",
+              "RelativeDocumentMoniker": "CoreLibs\\Class1.cs",
+              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\CoreLibs\\Class1.cs",
+              "RelativeToolTip": "CoreLibs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:30:30.547Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmQuanLyLoaiMay.cs",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "RelativeToolTip": "GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAIwIUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:25:50.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmQuanLyLoaiMay.cs [Design]",
-              "DocumentMoniker": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "RelativeDocumentMoniker": "GUI_QLQN\\FrmQuanLyLoaiMay.cs",
-              "ToolTip": "C:\\SD1903_Nhoms1_ZenSpace-main\\SD1903_Nhoms1_ZenSpace-main\\QuanLyQuanNet\\GUI_QLQN\\FrmQuanLyLoaiMay.cs [Design]",
-              "RelativeToolTip": "GUI_QLQN\\FrmQuanLyLoaiMay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:25:39.728Z"
+              "WhenOpened": "2025-11-17T07:36:35.079Z",
+              "EditorCaption": ""
             }
           ]
         }

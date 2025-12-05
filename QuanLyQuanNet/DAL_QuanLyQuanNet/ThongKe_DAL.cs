@@ -10,7 +10,7 @@ namespace DAL_QuanLyQuanNet
 {
     public class ThongKe_DAL
     {
-        private static readonly string connectionString = @"Data Source=DESKTOP-O7TJDCH\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True";
+        private static readonly string connectionString = @"Data Source=DESKTOP-4T4K5KV\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True";
         public DataTable GetAll()
         {
             using (SqlConnection conn = new SqlConnection(connectionString))

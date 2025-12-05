@@ -18,7 +18,7 @@ namespace GUI_QLQN
             Application.SetCompatibleTextRenderingDefault(false);
             if (Environment.OSVersion.Version.Major >= 6)
                 SetProcessDPIAware();
-            Application.Run(new FrmDangNhap());
+            Application.Run(new FrmTrangChu());
         }
 
         [System.Runtime.InteropServices.DllImport("user32.dll")]

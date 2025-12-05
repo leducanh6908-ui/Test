@@ -6,7 +6,7 @@ namespace DAL_QuanLyQuanNet
 {
     public class MayTinh_DAL
     {
-        private static string chuoiKetNoi = @"Data Source=DESKTOP-O7TJDCH\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
+        private static string chuoiKetNoi = @"Data Source=DESKTOP-4T4K5KV\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
 
         public static List<MayTinh_DTO> LayDanhSach()
         {

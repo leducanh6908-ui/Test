@@ -8,7 +8,7 @@ namespace DAL_QuanLyQuanNet
 {
     public class LoaiKhachHang_DAL
     {
-        private static readonly string connectionstring = @"Data Source=DESKTOP-O7TJDCH\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
+        private static readonly string connectionstring = @"Data Source=DESKTOP-4T4K5KV\SQLEXPRESS;Initial Catalog=PRO231_QuanLyQuanNet1903;Integrated Security=True;TrustServerCertificate=True";
         public static List<LoaiKhachHang_DTO> GetAll()
         {
             List<LoaiKhachHang_DTO> list = new List<LoaiKhachHang_DTO>();

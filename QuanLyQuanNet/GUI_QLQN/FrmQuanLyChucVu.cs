@@ -89,12 +89,16 @@ namespace GUI_QLQN
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            if (dgvQLCV.CurrentRow?.DataBoundItem is ChucVu_DTO cv)
+            if (dgvQLCV.CurrentRow?.DataBoundItem is ChucVuViewModel cvView)
             {
                 if (!ValidateInput()) return;
 
-                cv.TenChucVu = txtTenCV.Text.Trim();
-                cv.MaTrangThai = cboTrangThai.SelectedValue.ToString();
+                var cv = new ChucVu_DTO
+                {
+                    MaChucVu = cvView.MaChucVu,
+                    TenChucVu = txtTenCV.Text.Trim(),
+                    MaTrangThai = cboTrangThai.SelectedValue.ToString()
+                };
 
                 if (ChucVu_BUS.CapNhat(cv))
                 {
@@ -110,12 +114,12 @@ namespace GUI_QLQN
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            if (dgvQLCV.CurrentRow?.DataBoundItem is ChucVu_DTO cv)
+            if (dgvQLCV.CurrentRow?.DataBoundItem is ChucVuViewModel cvView)
             {
                 var confirm = MessageBox.Show("Bạn có chắc chắn muốn xóa chức vụ này?", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (confirm == DialogResult.Yes)
                 {
-                    if (ChucVu_BUS.Xoa(cv.MaChucVu))
+                    if (ChucVu_BUS.Xoa(cvView.MaChucVu))
                     {
                         MessageBox.Show("Xóa thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         LoadData();

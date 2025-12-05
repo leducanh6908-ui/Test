@@ -1,0 +1,24 @@
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\bin\Debug\net8.0\CoreLibs.deps.json
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\bin\Debug\net8.0\CoreLibs.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\bin\Debug\net8.0\CoreLibs.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.AssemblyInfoInputs.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.AssemblyInfo.cs
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.csproj.CoreCompileInputs.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.sourcelink.json
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\refint\CoreLibs.dll
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\ref\CoreLibs.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\bin\Debug\net8.0\CoreLibs.deps.json
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\bin\Debug\net8.0\CoreLibs.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\bin\Debug\net8.0\CoreLibs.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.AssemblyInfoInputs.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.AssemblyInfo.cs
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.csproj.CoreCompileInputs.cache
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.sourcelink.json
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\refint\CoreLibs.dll
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\CoreLibs.pdb
+C:\Users\Le Duc Anh\Documents\File\1\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\CoreLibs\obj\Debug\net8.0\ref\CoreLibs.dll

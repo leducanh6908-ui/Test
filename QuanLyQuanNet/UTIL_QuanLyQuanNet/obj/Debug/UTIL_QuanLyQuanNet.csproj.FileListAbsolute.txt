@@ -16,3 +16,7 @@ C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_Qu
 C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\UTIL_QuanLyQuanNet.csproj.CoreCompileInputs.cache
 C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\UTIL_QuanLyQuanNet.dll
 C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\UTIL_QuanLyQuanNet.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\GUI_QLQN.ucTinhTrangMay.resources
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\UTIL_QuanLyQuanNet.csproj.GenerateResource.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\UTIL_QuanLyQuanNet.gentestingplatformentrypointinputcache.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\UTIL_QuanLyQuanNet\obj\Debug\UTIL_QuanLyQuanNet.genautoregisteredextensionsinputcache.cache

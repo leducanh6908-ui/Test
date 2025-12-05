@@ -1,0 +1,7 @@
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\obj\Debug\Test UNIT.csproj.AssemblyReference.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\obj\Debug\Test UNIT.csproj.CoreCompileInputs.cache
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\bin\Debug\Test UNIT.exe.config
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\bin\Debug\Test UNIT.exe
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\bin\Debug\Test UNIT.pdb
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\obj\Debug\Test UNIT.exe
+C:\SD1903_Nhoms1_ZenSpace-main\SD1903_Nhoms1_ZenSpace-main\QuanLyQuanNet\Test UNIT\obj\Debug\Test UNIT.pdb
