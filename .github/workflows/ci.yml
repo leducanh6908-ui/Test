@@ -33,8 +33,7 @@ jobs:
         dotnet build BLL_QuanLyQuanNet --configuration Release --no-restore
         dotnet build CoreLibs --configuration Release --no-restore
         dotnet build Apps --configuration Release --no-restore
-        dotnet build GUI_QLQN.Tests --configuration Release --no-restore
-    
+        dotnet build QuanLyQuanNet.Tests/QuanLyQuanNet.Tests.csproj --configuration Release --no-restore    
     # TEST VẪN CHẠY ĐƯỢC (không cần GUI_QLQN build)
     - name: Run tests
       run: dotnet test --no-build --verbosity normal
