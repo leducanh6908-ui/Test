@@ -1,0 +1,40 @@
+name: .NET Build and Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: windows-latest
+    
+    defaults:
+      run:
+        working-directory: ./QuanLyQuanNet
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+    
+    - name: Restore dependencies
+      run: dotnet restore
+    
+    # CHỈ BUILD CÁC PROJECT QUAN TRỌNG (không build GUI_QLQN)
+    - name: Build core projects
+      run: |
+        dotnet build DTO_QuanLyQuanNet --configuration Release --no-restore
+        dotnet build DAL_QuanLyQuanNet --configuration Release --no-restore
+        dotnet build BLL_QuanLyQuanNet --configuration Release --no-restore
+        dotnet build CoreLibs --configuration Release --no-restore
+        dotnet build Apps --configuration Release --no-restore
+        dotnet build GUI_QLQN.Tests --configuration Release --no-restore
+    
+    # TEST VẪN CHẠY ĐƯỢC (không cần GUI_QLQN build)
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal
